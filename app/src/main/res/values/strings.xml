@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Meus Filmes</string>
+    <string name="action_settings">Sobre</string>
+    <string name="meus_filmes">Meus Filmes</string>
+    <string name="adicionar_filme">Adicionar Filme</string>
+
+    <string name="titulo">Título</string>
+    <string name="diretor">Diretor</string>
+    <string name="ano_lancamento">Ano de Lançamento</string>
+    <string name="genero">Gênero</string>
+    <string name="sua_nota">Sua nota</string>
+    <string name="salvar_filme">Salvar Filme</string>
+    <string name="atualizar_filme">Atualizar</string>
+</resources>
